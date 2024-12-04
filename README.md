@@ -1,5 +1,5 @@
 # electricity_bill_system
-It is simple electricity bill management project.In future, I will add more features and update this project.
+It is a simple electricity bill management project.Future enhancements and additional features are planned to further improve its functionality.
 In this project: 
 Database: MySQL
 Front-end: Html,CSS,Javascript
